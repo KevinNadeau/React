@@ -1,3 +1,9 @@
+Applicaion React dont le back est géré par firebase
+utiliser L'utilisateur admin 'Kevin' afin de pouuvoir agir sur les articles
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
